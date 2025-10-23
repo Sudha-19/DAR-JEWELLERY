@@ -1,0 +1,167 @@
+.dar {
+    display: flex;
+}
+.dar{
+    width:200px;
+}
+.dar2 img{
+    width:1300px;
+    height:500px;
+
+}
+
+.dar4{
+    display: flex;
+    margin:10px;
+    
+}
+.trust-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    /* space between boxes */
+    margin-top: 30px;
+    flex-wrap: wrap;
+    /* makes it responsive */
+}
+
+.trust-box {
+    border: 3px solid #28a745;
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    padding: 10px 15px;
+    background-color: #f9fff9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.trust-box:hover {
+    transform: translateY(-5px);
+}
+.Diamond{
+display: flex;
+margin-left: 10px;
+gap:12px;
+}
+.Diamond1 img{
+height:500px;
+width:700px;
+}
+.Diamond2 img{
+height:240px;
+width:270px;
+}
+.Diamond2{
+    display:flex;
+    gap:10px;
+}
+.diamond5{
+    display: flex;
+}
+.diamond5 img{
+    height:400px;
+    width:400px;
+}
+.bride img{
+    height:750px;
+    width:900px;
+}
+.bride1 img{
+    height:400px;
+    width:1270px;
+}
+.diamond2{
+    display: flex;
+    gap:20px;
+   
+}
+.diamond2 img{
+    height:250px;
+    width:240px;
+    border-radius: 20px;
+}
+.bride2 img{
+    height: 500px;
+        width: 1300px;
+}
+.footers{
+    display:flex;
+    gap:10px
+}
+
+.maps {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px;
+    gap: 60px;
+}
+
+.map {
+    flex: 1;
+    min-width: 400px;
+    /* gives space for the heading */
+}
+
+.map1 {
+    border:1px solid black;
+    flex: 1;
+    background-color: #f9f9f9;
+   
+    padding: 20px;
+    height:300px;
+    margin-left: 60px;
+
+}
+
+.contact-heading {
+    white-space: nowrap;
+ 
+    margin-bottom: 10px;
+}
+
+.sub-heading {
+    margin-bottom: 20px;
+}
+.map2{
+    margin-right: 250px;
+}
+.map2 img{
+    height:85px;
+    width:90px;
+}
+.gold img{
+width:1300px;
+}
+.gold2 img{
+    height:120px;
+    width:200px;
+}.gold1{
+    display: flex;
+    gap:50px;
+}
+
+.gold3 img{
+    height:150px;
+    width:160px;
+}
+.gold{
+    display:flex;
+}
+.gold4 img{
+    margin-right:300px;
+}
+.gold4{
+    margin-right: 200px;
+}
+.golds{
+    display:flex;
+   gap:20px;
+}
+.golds-1 img{
+    height:400px;
+    width:400px;
+}
